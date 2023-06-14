@@ -1,3 +1,4 @@
+// This is a simple http client. It requests the server and prints the result in the bash.
 package main
 
 import (
