@@ -1,4 +1,4 @@
-// The function prints "Hello world!"
+// This function prints "Hello world!"
 package main
 
 import "fmt"
