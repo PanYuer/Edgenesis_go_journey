@@ -1,3 +1,4 @@
+// This is a simple http server. When you visit "/hello", it prints "Hello world! Welcome to Edgenesis!"
 package main
 
 import (
