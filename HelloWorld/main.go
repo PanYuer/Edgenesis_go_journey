@@ -1,4 +1,4 @@
-// The function prints "Hello world!" in the bash
+// The function prints "Hello world!"
 package main
 
 import "fmt"
